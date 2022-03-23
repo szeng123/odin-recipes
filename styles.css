@@ -1,0 +1,36 @@
+/* BG for entire page */
+body{
+    background-color: azure;
+}
+
+/* Colors and themes for Page Heading */
+h1 {
+    color: red;
+    background-color: blueviolet;
+    text-align: center;
+}
+/* colors and themes for sub headings */
+#subheader {
+    color: green;
+    background-color: blue;
+    text-align: center;
+}
+.food-links {
+    background-color: white;
+}
+
+/* different colors variations for text */
+.v1 {
+    color: blue;
+    font-size: 12px;
+}
+
+.v2 {
+    font-weight:bold ;
+}
+
+v3 {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
